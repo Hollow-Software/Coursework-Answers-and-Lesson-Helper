@@ -1,4 +1,4 @@
-# 爬虫程序 Spider Programmes
+# 课程作业合集+刷课助手 Coursework Answers & Lesson Helper
 
 ![](https://hollowman6.github.io/img/mark.png)
 
@@ -10,9 +10,9 @@
 
 [查看项目细节 See Project Details](https://github.com/users/HollowMan6/projects/1)
 
-这里汇聚了我的爬虫程序仓库。
+这里汇聚了我的课程作业合集+刷课助手仓库。
 
-Here is a collection of my web crawler repositories. 
+Here is a collection of all the courseworks and quizzes that done by myself plus lessons helper.
 
 **提示**: 克隆后请使用以下命令获取子仓库
 
@@ -20,7 +20,10 @@ Here is a collection of my web crawler repositories.
 
 `git submodule update --init`
 
-* [Tool Set for College Language Test](https://github.com/HollowMan6/Tool-Set-for-College-Language-Test)
-* [🕷 Tool Set for Crawling STU-INFO System](https://github.com/HollowMan6/Tool-Set-for-Crawling-STU-INFO-System)
-* [AutoVoting for Yunmai](https://github.com/HollowMan6/AutoVoting-for-Yunmai)
-* [🤖 Smart Chatting Robot](https://github.com/HollowMan6/Smart-Chatting-Robot)
+* [ChaoXing ErYa Wisdom Tree Lessons Helper](https://github.com/hollowman6/ChaoXing-ErYa-Wisdom-Tree-Lessons-Helper)
+* [Answers for My LZU Undergraduate Courses](https://github.com/HollowMan6/Answers-for-My-LZU-UG-Courses)
+* [Answers for My Leeds COMP2 Courses](https://github.com/HollowMan6/Answers-for-My-Leeds-COMP2-Courses)
+* [Guessing Game](https://github.com/HollowMan6/Guessing-Game)
+* [Programming with Google Go Coursera Specialization](https://github.com/HollowMan6/Programming-with-Google-Go-Coursera-Specialization)
+* [MOOC CSharp Programming Language](https://github.com/HollowMan6/MOOC-CSharp-Programming-Language)
+* [Google Android Mobile Certification Quiz Answers](https://github.com/HollowMan6/Google-Android-Mobile-Certification-Quiz-Answers)
