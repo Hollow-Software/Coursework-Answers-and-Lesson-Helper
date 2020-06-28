@@ -8,7 +8,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
-[查看项目细节 See Project Details](https://github.com/users/HollowMan6/projects/1)
+[查看项目细节 See Project Details](https://github.com/users/HollowMan6/projects/2)
 
 这里汇聚了我的课程作业合集+刷课助手仓库。
 
