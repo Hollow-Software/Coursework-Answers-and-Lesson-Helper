@@ -1,0 +1,23 @@
+[submodule "ChaoXing ErYa Wisdom Tree Lessons Helper"]
+	path = ChaoXing ErYa Wisdom Tree Lessons Helper
+	url = https://github.com/hollowman6/ChaoXing-ErYa-Wisdom-Tree-Lessons-Helper.git
+
+[submodule "Answers for My LZU Undergraduate Courses"]
+	path = Answers for My LZU Undergraduate Courses
+	url = https://github.com/HollowMan6/Answers-for-My-LZU-UG-Courses.git
+
+[submodule "Guessing Game"]
+	path = Guessing Game
+	url = https://github.com/HollowMan6/Guessing-Game.git
+
+[submodule "Programming with Google Go Coursera Specialization"]
+	path = Programming with Google Go Coursera Specialization
+	url = https://github.com/HollowMan6/Programming-with-Google-Go-Coursera-Specialization.git
+
+[submodule "MOOC CSharp Programming Language"]
+	path = MOOC CSharp Programming Language
+	url = https://github.com/HollowMan6/MOOC-CSharp-Programming-Language.git
+
+[submodule "Google Android Mobile Certification Quiz Answers"]
+	path = Google Android Mobile Certification Quiz Answers
+	url = https://github.com/HollowMan6/Google-Android-Mobile-Certification-Quiz-Answers.git
