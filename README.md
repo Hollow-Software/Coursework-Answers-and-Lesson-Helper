@@ -22,6 +22,8 @@ Here is a collection of all the courseworks and quizzes that done by myself plus
 
 * [ChaoXing ErYa Wisdom Tree Lessons Helper](https://github.com/hollowman6/ChaoXing-ErYa-Wisdom-Tree-Lessons-Helper)
 * [Answers for My LZU Undergraduate Courses](https://github.com/HollowMan6/Answers-for-My-LZU-UG-Courses)
+* [CS-E4770](https://github.com/HollowMan6/CS-E4770)
+* [CS-C3170 Web Software Development](https://github.com/HollowMan6/CS-C3170-Web-Software-Development)
 * [Guessing Game](https://github.com/HollowMan6/Guessing-Game)
 * [Programming with Google Go Coursera Specialization](https://github.com/HollowMan6/Programming-with-Google-Go-Coursera-Specialization)
 * [MOOC CSharp Programming Language](https://github.com/HollowMan6/MOOC-CSharp-Programming-Language)

@@ -6,6 +6,14 @@
 	path = Answers for My LZU Undergraduate Courses
 	url = https://github.com/HollowMan6/Answers-for-My-LZU-UG-Courses.git
 
+[submodule "CS-E4770"]
+	path = CS-E4770
+	url = https://github.com/HollowMan6/CS-E4770.git
+
+[submodule "CS-C3170 Web Software Development"]
+	path = CS-C3170 Web Software Development
+	url = https://github.com/HollowMan6/CS-C3170-Web-Software-Development.git
+
 [submodule "Guessing Game"]
 	path = Guessing Game
 	url = https://github.com/HollowMan6/Guessing-Game.git
